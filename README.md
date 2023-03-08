@@ -1,16 +1,32 @@
-### Hi there 👋
+<!--Tarea 1 03/02/2023-->
+# Ricardo Reyes Flores
+## Un poco sobre mi:
+Soy de nacionalidad **Mexicana**, Nacido en **Tamaulipas**, actualmente tengo 22 años, soy **_Tecnico Bachiller en Informatica_**.
 
-<!--
-**RREYES0424/RREYES0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona muy entusiasta de la programacion, me gusta ser autodidacta.
 
-Here are some ideas to get you started:
+Me gusta ver documentales y escuchar musica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Mis comandos de terminal
+Estos son los comandos que recuerdo de la sesion:
+| Comando | Descripcion |
+|---------|-------------|
+| cd      | Nos permite movernos entre carpetas |
+| mkdir    | Nos permite crear carpetas |
+| ls  | Nos permite ver el contenido de un directorio |
+| pwd | Nos permite ver en que directorio estamos|
+| rm -r | Nos permite eliminar un directorio con su contenido |
+
+---
+
+## Mis alias utiles
+| Alias | Descripcion |
+|-------|-------------|
+| actualizar| sudo apt update && sudo apt dist-upgrade -y|
+| c | clear |
+
+---
+
+Made With 💚 in Mexico
